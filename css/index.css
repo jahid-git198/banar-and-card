@@ -1,0 +1,24 @@
+#jahid{
+     
+      border: 5px solid #54A733;
+   
+}
+#hasan{
+     top: 20px;
+}
+#border{
+     display: flex;
+     justify-content: center;
+     
+     
+       
+     
+  
+}
+#margin{
+     border-bottom : 3px solid #aaa;
+     
+}
+#top-1{
+     border-top: 2px solid dashed;
+}
